@@ -2,9 +2,11 @@
 
 Run `composer update`
 
-Run `php artisan db:seed` for website and users seeding
+copy .env.example to .env and add SMTP mail and DB credentials.
 
-copy .env.example to .env and add SMTP mail credentials for mail sending.
+Run `php artisan migrate` for migrations.
+
+Run `php artisan db:seed` for website and users seeding
 
 Start server by command `php artisan serve`
 
