@@ -4,6 +4,8 @@ Run `composer update`
 
 Run `php artisan db:seed` for website and users seeding
 
+copy .env.example to .env and add SMTP mail credentials for mail sending.
+
 Start server by command `php artisan serve`
 
 Swagger link to test APIS - 
