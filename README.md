@@ -1,4 +1,4 @@
-# website-subscription-portal
+# Website Subscription Portal
 
 Run `composer update`
 
